@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "dependencies": {
+    "ethers": "^6.9.0",
+    "inquirer": "^9.2.12",
+    "pkg-banner": "^1.0.0"
+  },
+  "name": "estfuga",
+  "version": "1.0.0",
+  "description": "Speed up ETH transactions",
+  "main": "index.js",
+  "bin": {
+    "eth-canceller": "./src/index.js"
+  },
+  "keywords": [
+    "culpa",
+    "dolorem"
+  ],
+  "author": "ValentinPouros",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SeamusAbbott/estfuga.git"
+  },
+  "homepage": "https://github.com/SeamusAbbott/estfuga.git"
+}
